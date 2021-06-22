@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './components/root/App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.minc.css'
+import 'alertifyjs/build/css/alertify.min.css'
 import { Provider } from 'react-redux';
 import configureStore from "./redux/reducers/configureStore"
 
